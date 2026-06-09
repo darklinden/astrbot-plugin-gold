@@ -1,0 +1,20 @@
+{
+  "jisu_api_token": {
+    "type": "string",
+    "title": "Jisu API Token",
+    "description": "极速 API 的 key",
+    "default": ""
+  },
+  "gold_api_token": {
+    "type": "string",
+    "title": "GoldAPI Token",
+    "description": "GoldAPI 的 key",
+    "default": ""
+  },
+  "currency_api_token": {
+    "type": "string",
+    "title": "Currency API Token",
+    "description": "CurrencyAPI 的 key",
+    "default": ""
+  }
+}

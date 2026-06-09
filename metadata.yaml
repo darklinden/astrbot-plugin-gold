@@ -1,0 +1,6 @@
+name: gold
+author: darklinden
+desc: 今日金银价格查询。国内价格来自 Jisu API，国际价格来自 GoldAPI。
+version: 1.0.0
+display_name: 今日金价
+short_desc: 查询国内外金银实时价格
